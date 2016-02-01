@@ -1,5 +1,6 @@
 #include "sample1.h"
 
+// a simple function to generate factorial number
 int Factorial(int n) {
   int result = 1;
   for (int i=1; i<=n; i++)
